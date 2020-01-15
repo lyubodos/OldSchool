@@ -1,0 +1,29 @@
+h1{
+    color: red;
+  }
+
+
+img:hover{
+  background-color: orange;
+  border: solid;
+  border-width: 3px;
+}
+
+/********************************** Class Selector ***********************/
+
+.bacon {
+  background-color: red;
+}
+
+.broccoli{
+  background-color: green;
+}
+
+.circular{
+  border-radius: 100%;
+}
+/**********************************ID Selector***************************/
+
+#heading{
+  color: blue;
+}

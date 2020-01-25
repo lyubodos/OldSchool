@@ -1,10 +1,5 @@
 
 
-  body {
-    background-color: powderblue;
-    font-family: Arial, Helvetica, sans-serif;
-  }
-
   hr {
     border-style: dotted none none none;
     height: 0;
@@ -21,5 +16,5 @@
 
   h3{
     color: #375e97;
-    
+
   }

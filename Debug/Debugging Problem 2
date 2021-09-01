@@ -1,4 +1,0 @@
-
-
-BIt coin price script:
-curl https://apiv2.bitcoinaverage.com/indices/global/ticker/BTUSD
